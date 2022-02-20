@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "abeb5558-c92f-473e-8bdf-90f58bd3811c": {
+      "ProjectGuid": "abeb5558-c92f-473e-8bdf-90f58bd3811c",
+      "DisplayName": "JoinLeftMessage",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
